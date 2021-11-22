@@ -1,12 +1,12 @@
 # Biophys206 Final Project 
 ## Uncover copy number associative genetic signatures via single cell RNA sequencing
 
-Project synopsis: 
+### Project synopsis: 
 
 Data availability : https://singlecell.broadinstitute.org/single_cell/study/SCP542/pan-cancer-cell-line-heterogeneity
 
-### Data preprocesing :
-- Single cell RNA-seq data preprocessing: ccle_umi_preprocess.ipynb
+### Data pre-procesing :
+- Single cell RNA-seq data preprocessing: [preprocssing script](https://github.com/sanju99/biophys206_finalProject/blob/main/ccle_umi_preprocess.ipynb)
 - Bullk RNA-seq data preprocessing: 
 
 ### Copy number alteration calling method: 

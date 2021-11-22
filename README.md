@@ -4,7 +4,7 @@
 Data availability : https://singlecell.broadinstitute.org/single_cell/study/SCP542/pan-cancer-cell-line-heterogeneity
 
 ### Data pre-procesing :
-- Single cell RNA-seq data preprocessing: [preprocssing script](https://github.com/sanju99/biophys206_finalProject/blob/main/ccle_umi_preprocess.ipynb)
+- Single cell RNA-seq data preprocessing: [preprocssing script](https://github.com/sanju99/biophys206_finalProject/blob/main/single_cell_datapreprocessing.ipynb)
 - Bullk RNA-seq data preprocessing: 
 
 ### Copy number alteration calling method: 

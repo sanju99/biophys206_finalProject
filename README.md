@@ -1,8 +1,6 @@
 # Biophysics 206 Final Project 
 ## Uncover copy number associative genetic signatures via single cell RNA sequencing
 
-### Project synopsis: 
-
 Data availability : https://singlecell.broadinstitute.org/single_cell/study/SCP542/pan-cancer-cell-line-heterogeneity
 
 ### Data pre-procesing :

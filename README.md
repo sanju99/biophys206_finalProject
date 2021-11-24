@@ -5,7 +5,7 @@ Data availability : https://singlecell.broadinstitute.org/single_cell/study/SCP5
 
 ### Data pre-processing :
 - Single cell RNA-seq data preprocessing: [preprocessing script](https://github.com/sanju99/biophys206_finalProject/blob/main/single_cell_datapreprocessing.ipynb)
-- Bullk RNA-seq data preprocessing: [preprocessing in notebook](https://github.com/sanju99/biophys206_finalProject/blob/main/bulkRNA_init.ipynb)
+- Bullk RNA-seq data preprocessing: preprocessing in [notebook](https://github.com/sanju99/biophys206_finalProject/blob/main/bulkRNA_init.ipynb)
 
 ### Copy number alteration calling method: 
 - Single cell RNA-seq copy number alteration: [single cell copy number calling](https://github.com/sanju99/biophys206_finalProject/blob/main/single_cell_CNA.ipynb)
@@ -18,4 +18,4 @@ Data availability : https://singlecell.broadinstitute.org/single_cell/study/SCP5
   3. Identify genetic programs based on leiden clustering and Bayesian non-negative factorization matrix: [genetic programs enriched in CNA subclones](https://github.com/sanju99/biophys206_finalProject/blob/main/gene_expression_signature_comp_cna.ipynb)  
 
 ### Relationship between copy number and gene expression:
-- Bulk RNA-seq data: [analysis in notebook](https://github.com/sanju99/biophys206_finalProject/blob/main/bulkRNA_init.ipynb)
+- Bulk RNA-seq data: analysis in [notebook](https://github.com/sanju99/biophys206_finalProject/blob/main/bulkRNA_init.ipynb)

@@ -19,3 +19,4 @@ Data availability : https://singlecell.broadinstitute.org/single_cell/study/SCP5
 
 ### Relationship between copy number and gene expression:
 - Bulk RNA-seq data: analysis in [notebook](https://github.com/sanju99/biophys206_finalProject/blob/main/bulkRNA_init.ipynb)
+- Canonical correlation based approach to study multivariate correlation between gene expression and copy number: [CCA](https://github.com/sanju99/biophys206_finalProject/blob/main/CNA_cluster_filter.ipynb) 
